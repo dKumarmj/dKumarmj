@@ -5,7 +5,7 @@
 
 - 🔭 I’m a backend web developer
 - 👯 I’m happy to collaborate on opensource projects
-- 🏴󠁥󠁳󠁶󠁣󠁿 I'm happy to help others & do community works
+- 🏴󠁥󠁳󠁶󠁣󠁿 I'm happy to help
 - 🏅 Certified : [Umbraco Master](https://umbraco.com/training/certified-developers/developer/?id=78fc07a9-211a-4907-9ff4-592f51c4e25e)
 - 📕 Article: [Load balancing in Umbraco](https://archive.24days.in/umbraco-cms/2021/azure-load-balancing/)
 - ⚡ Fun fact: I love to travel!
