@@ -37,6 +37,6 @@
 <br />
 
 
-[instagram]: https://www.instagram.com/dhanesh.alive/
+[instagram]: https://www.instagram.com/_dhan_esh.alive/
 [linkedin]: https://www.linkedin.com/in/its-me-dhanesh-kumar-mj/
 
