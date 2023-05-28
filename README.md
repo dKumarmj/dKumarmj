@@ -8,7 +8,7 @@
 - 🌱 I’m currently exploring various Azure services
 - 📫 How to reach me dev.mjdhanesh@gmail.com
 - 🏅 Certified : [Umbraco Master](https://umbraco.com/training/certified-developers/developer/?id=78fc07a9-211a-4907-9ff4-592f51c4e25e)
-- 📕 Article: [Checkout out here..](https://medium.com/@dev.mjdhanesh)
+- 📕 Article: [Checkout out here..](https://medium.com/@dev.mjdhanesh/lists)
 - ⚡ Fun fact: I love to travel!
 
 
